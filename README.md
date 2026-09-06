@@ -2,7 +2,7 @@
 
 A GIS-based exploratory analysis of literacy and sanitation access across Pakistan's 141 districts, using open government survey data (PSLM 2019-20) mapped against real administrative boundaries — including a data-quality investigation into cross-source naming inconsistencies, two choropleth maps, a correlation analysis, and a distance-from-major-city spatial test.
 
-This project extends the GIS/data science skills developed in my [Nepal earthquake EDA](../nepal-earthquake-eda) — specifically moving from point-based mapping (earthquake epicenters) to polygon-based choropleth mapping, coordinate reference system handling, and geometric distance analysis.
+This project extends the GIS/data science skills developed in my [Nepal earthquake EDA](https://github.com/maamir01/Nepal-Earthquake-EDA) — specifically moving from point-based mapping (earthquake epicenters) to polygon-based choropleth mapping, coordinate reference system handling, and geometric distance analysis.
 
 ## Key findings
 
