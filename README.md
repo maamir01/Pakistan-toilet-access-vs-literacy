@@ -18,10 +18,12 @@ Polygon geometry and choropleth mapping · Coordinate Reference System (CRS) rep
 
 ## Repository contents
 
-| File | Description |
-|---|---|
-| `PK_DIS_full.ipynb` | Full analysis notebook |
-| `literacy.csv` / `toilet.csv` | PSLM 2019-20 district-level survey exports |
+| File                             | Description                                |
+| --------------------------------- | ------------------------------------------ |
+| `PK_DIS_fulll.ipynb`              | Full analysis notebook                     |
+| `literacy.csv` / `toilet.csv`     | PSLM 2019-20 district-level survey exports |
+| `pak_districts.geojson`           | District boundary polygons (GADM-derived)  |
+| `pakistan_districts_export.csv`   | Cleaned/joined district-level export       |
 
 ## Data sources
 
